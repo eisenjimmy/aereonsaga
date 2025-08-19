@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Aereon Saga</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <meta name="color-scheme" content="light dark">
+  <script>
+    tailwind.config = {
+      theme: { extend: {
+        boxShadow: { soft: '0 8px 30px rgba(0,0,0,.25)' },
+        colors: {
+          rarity: { common: '#9CA3AF', rare: '#3B82F6', epic: '#8B5CF6', legendary: '#F59E0B' }
+        }
+      }}
+    }
+  </script>
+  <style>
+    .card { border-radius: 1rem; overflow: hidden; }
+    .rarity-badge { font-weight:600; font-size:.75rem; padding:.1rem .4rem; border-radius:.5rem; }
+  </style>
+</head>
+<body class="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-black text-slate-100">
+  <header class="sticky top-0 z-50 backdrop-blur bg-black/40 border-b border-white/10">
+    <div class="max-w-5xl mx-auto px-4 py-3 flex items-center gap-3">
+      <img src="./assets/favicon.svg" alt="AS" class="w-6 h-6">
+      <h1 class="text-lg font-semibold tracking-wide">Aereon Saga</h1>
+      <nav class="ml-auto flex gap-3 text-sm">
+        <a href="./index.html" class="hover:underline">Home</a>
+        <a href="./summon.html" class="hover:underline">Summon</a>
+        <a href="./cards.html" class="hover:underline">My Cards</a>
+        <a href="./stage.html" class="hover:underline">Battle</a>
+      </nav>
+    </div>
+  </header>
+  <main class="max-w-5xl mx-auto px-4 py-6">
+
+<section class="grid gap-4">
+  <div class="flex items-center justify-between">
+    <h2 class="text-xl font-semibold">Summon</h2>
+    <div class="text-sm">Credits: <span id="credits" class="font-mono px-2 py-1 bg-slate-800 rounded">—</span></div>
+  </div>
+  <div class="card bg-slate-800/60 border border-white/10 p-4">
+    <div class="flex flex-wrap gap-2">
+      <button id="single" class="px-4 py-2 rounded-xl bg-sky-600 hover:bg-sky-500">Single Summon (5)</button>
+      <button id="multi" class="px-4 py-2 rounded-xl bg-purple-600 hover:bg-purple-500">Multi Summon x10 (50)</button>
+      <button id="give100" class="ml-auto px-3 py-2 rounded-xl bg-emerald-700 hover:bg-emerald-600 text-xs">Dev: +100 Credits</button>
+    </div>
+  </div>
+  <div id="results" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+</section>
+<script src="./js/common.js"></script>
+<script src="./js/summon.js"></script>
+
+  </main>
+  <footer class="max-w-5xl mx-auto px-4 pb-10 pt-6 text-xs text-slate-400">
+    <p>Prototype fan project for personal use. League of Legends art © Riot Games. Data Dragon images loaded via their CDN splash endpoints.</p>
+  </footer>
+</body>
+</html>
