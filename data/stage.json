@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Orc Camp",
+    "enemyKey": "Darius",
+    "rewardCredits": 20
+  },
+  {
+    "id": 2,
+    "name": "Haunted Forest",
+    "enemyKey": "Thresh",
+    "rewardCredits": 35
+  },
+  {
+    "id": 3,
+    "name": "Dragon's Lair",
+    "enemyKey": "AurelionSol",
+    "rewardCredits": 50
+  }
+]

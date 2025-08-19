@@ -1,0 +1,2252 @@
+[
+  {
+    "id": 1,
+    "name": "Aatrox",
+    "key": "Aatrox",
+    "rarity": "Rare",
+    "category": "Humanoid",
+    "stats": {
+      "str": 62,
+      "dex": 60,
+      "int": 59,
+      "arcane": 53,
+      "luck": 51
+    },
+    "effect": "Increases Luck of all Orc allies by 9."
+  },
+  {
+    "id": 2,
+    "name": "Ahri",
+    "key": "Ahri",
+    "rarity": "Common",
+    "category": "Humanoid",
+    "stats": {
+      "str": 32,
+      "dex": 36,
+      "int": 37,
+      "arcane": 46,
+      "luck": 49
+    },
+    "effect": "Increases Dexterity of all ShadowIsles allies by 8."
+  },
+  {
+    "id": 3,
+    "name": "Akali",
+    "key": "Akali",
+    "rarity": "Common",
+    "category": "Ixtali",
+    "stats": {
+      "str": 38,
+      "dex": 55,
+      "int": 57,
+      "arcane": 30,
+      "luck": 54
+    },
+    "effect": "Reduces Arcane of all Noxian allies by 4."
+  },
+  {
+    "id": 4,
+    "name": "Akshan",
+    "key": "Akshan",
+    "rarity": "Common",
+    "category": "Noxian",
+    "stats": {
+      "str": 33,
+      "dex": 32,
+      "int": 42,
+      "arcane": 33,
+      "luck": 41
+    },
+    "effect": "Reduces Luck of all Void allies by 3."
+  },
+  {
+    "id": 5,
+    "name": "Alistar",
+    "key": "Alistar",
+    "rarity": "Rare",
+    "category": "ShadowIsles",
+    "stats": {
+      "str": 52,
+      "dex": 69,
+      "int": 50,
+      "arcane": 80,
+      "luck": 63
+    },
+    "effect": "Reduces Luck of all Ionian allies by 4."
+  },
+  {
+    "id": 6,
+    "name": "Amumu",
+    "key": "Amumu",
+    "rarity": "Rare",
+    "category": "Elf",
+    "stats": {
+      "str": 59,
+      "dex": 63,
+      "int": 50,
+      "arcane": 59,
+      "luck": 51
+    },
+    "effect": "Increases Arcane of all Ionian allies by 6."
+  },
+  {
+    "id": 7,
+    "name": "Anivia",
+    "key": "Anivia",
+    "rarity": "Common",
+    "category": "Beast",
+    "stats": {
+      "str": 51,
+      "dex": 38,
+      "int": 52,
+      "arcane": 59,
+      "luck": 51
+    },
+    "effect": "Increases Luck of all Dragon allies by 9."
+  },
+  {
+    "id": 8,
+    "name": "Annie",
+    "key": "Annie",
+    "rarity": "Rare",
+    "category": "Dragon",
+    "stats": {
+      "str": 74,
+      "dex": 69,
+      "int": 62,
+      "arcane": 80,
+      "luck": 59
+    },
+    "effect": "Increases Strength of all Yordle allies by 12."
+  },
+  {
+    "id": 9,
+    "name": "Aphelios",
+    "key": "Aphelios",
+    "rarity": "Common",
+    "category": "Noxian",
+    "stats": {
+      "str": 42,
+      "dex": 38,
+      "int": 32,
+      "arcane": 36,
+      "luck": 59
+    },
+    "effect": "Reduces Intelligence of all Beast allies by 6."
+  },
+  {
+    "id": 10,
+    "name": "Ashe",
+    "key": "Ashe",
+    "rarity": "Common",
+    "category": "Freljordian",
+    "stats": {
+      "str": 34,
+      "dex": 38,
+      "int": 34,
+      "arcane": 37,
+      "luck": 53
+    },
+    "effect": "Increases Intelligence of all Ixtali allies by 8."
+  },
+  {
+    "id": 11,
+    "name": "Aurelion Sol",
+    "key": "AurelionSol",
+    "rarity": "Epic",
+    "category": "Piltover",
+    "stats": {
+      "str": 83,
+      "dex": 74,
+      "int": 68,
+      "arcane": 92,
+      "luck": 91
+    },
+    "effect": "Increases Strength of all Undead allies by 6."
+  },
+  {
+    "id": 12,
+    "name": "Azir",
+    "key": "Azir",
+    "rarity": "Rare",
+    "category": "Zaunite",
+    "stats": {
+      "str": 49,
+      "dex": 69,
+      "int": 69,
+      "arcane": 74,
+      "luck": 78
+    },
+    "effect": "Increases Luck of all Humanoid allies by 10."
+  },
+  {
+    "id": 13,
+    "name": "Bard",
+    "key": "Bard",
+    "rarity": "Rare",
+    "category": "ShadowIsles",
+    "stats": {
+      "str": 62,
+      "dex": 66,
+      "int": 52,
+      "arcane": 63,
+      "luck": 72
+    },
+    "effect": "Increases Strength of all Void allies by 9."
+  },
+  {
+    "id": 14,
+    "name": "Bel'Veth",
+    "key": "Belveth",
+    "rarity": "Rare",
+    "category": "Targonian",
+    "stats": {
+      "str": 51,
+      "dex": 64,
+      "int": 77,
+      "arcane": 57,
+      "luck": 54
+    },
+    "effect": "Increases Dexterity of all ShadowIsles allies by 12."
+  },
+  {
+    "id": 15,
+    "name": "Blitzcrank",
+    "key": "Blitzcrank",
+    "rarity": "Epic",
+    "category": "Humanoid",
+    "stats": {
+      "str": 80,
+      "dex": 91,
+      "int": 61,
+      "arcane": 67,
+      "luck": 83
+    },
+    "effect": "Reduces Intelligence of all Yordle allies by 4."
+  },
+  {
+    "id": 16,
+    "name": "Brand",
+    "key": "Brand",
+    "rarity": "Epic",
+    "category": "Orc",
+    "stats": {
+      "str": 65,
+      "dex": 91,
+      "int": 64,
+      "arcane": 68,
+      "luck": 68
+    },
+    "effect": "Increases Luck of all Dragon allies by 7."
+  },
+  {
+    "id": 17,
+    "name": "Braum",
+    "key": "Braum",
+    "rarity": "Common",
+    "category": "Bilgewater",
+    "stats": {
+      "str": 43,
+      "dex": 60,
+      "int": 36,
+      "arcane": 59,
+      "luck": 47
+    },
+    "effect": "Increases Dexterity of all Celestial allies by 8."
+  },
+  {
+    "id": 18,
+    "name": "Briar",
+    "key": "Briar",
+    "rarity": "Legendary",
+    "category": "Ionian",
+    "stats": {
+      "str": 92,
+      "dex": 94,
+      "int": 92,
+      "arcane": 81,
+      "luck": 85
+    },
+    "effect": "Increases Intelligence of all Humanoid allies by 9."
+  },
+  {
+    "id": 19,
+    "name": "Caitlyn",
+    "key": "Caitlyn",
+    "rarity": "Common",
+    "category": "Ixtali",
+    "stats": {
+      "str": 37,
+      "dex": 30,
+      "int": 32,
+      "arcane": 52,
+      "luck": 50
+    },
+    "effect": "Increases Strength of all Elf allies by 12."
+  },
+  {
+    "id": 20,
+    "name": "Camille",
+    "key": "Camille",
+    "rarity": "Common",
+    "category": "Targonian",
+    "stats": {
+      "str": 37,
+      "dex": 38,
+      "int": 51,
+      "arcane": 45,
+      "luck": 36
+    },
+    "effect": "Increases Luck of all Ixtali allies by 8."
+  },
+  {
+    "id": 21,
+    "name": "Cassiopeia",
+    "key": "Cassiopeia",
+    "rarity": "Common",
+    "category": "Shuriman",
+    "stats": {
+      "str": 55,
+      "dex": 43,
+      "int": 36,
+      "arcane": 33,
+      "luck": 33
+    },
+    "effect": "Increases Intelligence of all Zaunite allies by 8."
+  },
+  {
+    "id": 22,
+    "name": "Cho'Gath",
+    "key": "Chogath",
+    "rarity": "Common",
+    "category": "Elf",
+    "stats": {
+      "str": 51,
+      "dex": 50,
+      "int": 50,
+      "arcane": 33,
+      "luck": 31
+    },
+    "effect": "Increases Intelligence of all Undead allies by 6."
+  },
+  {
+    "id": 23,
+    "name": "Corki",
+    "key": "Corki",
+    "rarity": "Common",
+    "category": "ShadowIsles",
+    "stats": {
+      "str": 44,
+      "dex": 34,
+      "int": 43,
+      "arcane": 35,
+      "luck": 38
+    },
+    "effect": "Increases Strength of all Freljordian allies by 12."
+  },
+  {
+    "id": 24,
+    "name": "Darius",
+    "key": "Darius",
+    "rarity": "Epic",
+    "category": "ShadowIsles",
+    "stats": {
+      "str": 66,
+      "dex": 63,
+      "int": 60,
+      "arcane": 65,
+      "luck": 75
+    },
+    "effect": "Increases Arcane of all Shuriman allies by 6."
+  },
+  {
+    "id": 25,
+    "name": "Diana",
+    "key": "Diana",
+    "rarity": "Epic",
+    "category": "Elf",
+    "stats": {
+      "str": 70,
+      "dex": 84,
+      "int": 60,
+      "arcane": 84,
+      "luck": 76
+    },
+    "effect": "Reduces Arcane of all Celestial allies by 7."
+  },
+  {
+    "id": 26,
+    "name": "Draven",
+    "key": "Draven",
+    "rarity": "Rare",
+    "category": "Shuriman",
+    "stats": {
+      "str": 54,
+      "dex": 57,
+      "int": 63,
+      "arcane": 58,
+      "luck": 48
+    },
+    "effect": "Increases Luck of all Elf allies by 10."
+  },
+  {
+    "id": 27,
+    "name": "Dr. Mundo",
+    "key": "DrMundo",
+    "rarity": "Common",
+    "category": "Elf",
+    "stats": {
+      "str": 48,
+      "dex": 45,
+      "int": 46,
+      "arcane": 59,
+      "luck": 57
+    },
+    "effect": "Increases Strength of all Targonian allies by 5."
+  },
+  {
+    "id": 28,
+    "name": "Ekko",
+    "key": "Ekko",
+    "rarity": "Epic",
+    "category": "Orc",
+    "stats": {
+      "str": 64,
+      "dex": 75,
+      "int": 85,
+      "arcane": 67,
+      "luck": 75
+    },
+    "effect": "Increases Strength of all Bilgewater allies by 5."
+  },
+  {
+    "id": 29,
+    "name": "Elise",
+    "key": "Elise",
+    "rarity": "Common",
+    "category": "Ixtali",
+    "stats": {
+      "str": 48,
+      "dex": 46,
+      "int": 40,
+      "arcane": 59,
+      "luck": 38
+    },
+    "effect": "Increases Intelligence of all Yordle allies by 7."
+  },
+  {
+    "id": 30,
+    "name": "Evelynn",
+    "key": "Evelynn",
+    "rarity": "Common",
+    "category": "Celestial",
+    "stats": {
+      "str": 44,
+      "dex": 40,
+      "int": 59,
+      "arcane": 54,
+      "luck": 59
+    },
+    "effect": "Increases Arcane of all Bilgewater allies by 9."
+  },
+  {
+    "id": 31,
+    "name": "Ezreal",
+    "key": "Ezreal",
+    "rarity": "Legendary",
+    "category": "Orc",
+    "stats": {
+      "str": 95,
+      "dex": 84,
+      "int": 94,
+      "arcane": 86,
+      "luck": 82
+    },
+    "effect": "Reduces Strength of all Yordle allies by 5."
+  },
+  {
+    "id": 32,
+    "name": "Fiddlesticks",
+    "key": "Fiddlesticks",
+    "rarity": "Common",
+    "category": "ShadowIsles",
+    "stats": {
+      "str": 52,
+      "dex": 39,
+      "int": 49,
+      "arcane": 55,
+      "luck": 50
+    },
+    "effect": "Increases Luck of all Celestial allies by 10."
+  },
+  {
+    "id": 33,
+    "name": "Fiora",
+    "key": "Fiora",
+    "rarity": "Common",
+    "category": "Demon",
+    "stats": {
+      "str": 38,
+      "dex": 33,
+      "int": 58,
+      "arcane": 33,
+      "luck": 53
+    },
+    "effect": "Increases Intelligence of all Celestial allies by 9."
+  },
+  {
+    "id": 34,
+    "name": "Fizz",
+    "key": "Fizz",
+    "rarity": "Common",
+    "category": "Noxian",
+    "stats": {
+      "str": 36,
+      "dex": 51,
+      "int": 50,
+      "arcane": 57,
+      "luck": 38
+    },
+    "effect": "Increases Intelligence of all Elf allies by 5."
+  },
+  {
+    "id": 35,
+    "name": "Galio",
+    "key": "Galio",
+    "rarity": "Rare",
+    "category": "Void",
+    "stats": {
+      "str": 47,
+      "dex": 45,
+      "int": 66,
+      "arcane": 53,
+      "luck": 61
+    },
+    "effect": "Increases Arcane of all ShadowIsles allies by 10."
+  },
+  {
+    "id": 36,
+    "name": "Gangplank",
+    "key": "Gangplank",
+    "rarity": "Common",
+    "category": "Humanoid",
+    "stats": {
+      "str": 33,
+      "dex": 32,
+      "int": 60,
+      "arcane": 58,
+      "luck": 52
+    },
+    "effect": "Reduces Luck of all Elf allies by 5."
+  },
+  {
+    "id": 37,
+    "name": "Garen",
+    "key": "Garen",
+    "rarity": "Common",
+    "category": "Demon",
+    "stats": {
+      "str": 43,
+      "dex": 34,
+      "int": 31,
+      "arcane": 39,
+      "luck": 41
+    },
+    "effect": "Reduces Strength of all Ionian allies by 4."
+  },
+  {
+    "id": 38,
+    "name": "Gnar",
+    "key": "Gnar",
+    "rarity": "Rare",
+    "category": "Ionian",
+    "stats": {
+      "str": 80,
+      "dex": 71,
+      "int": 54,
+      "arcane": 60,
+      "luck": 55
+    },
+    "effect": "Reduces Dexterity of all Zaunite allies by 4."
+  },
+  {
+    "id": 39,
+    "name": "Gragas",
+    "key": "Gragas",
+    "rarity": "Rare",
+    "category": "Noxian",
+    "stats": {
+      "str": 71,
+      "dex": 60,
+      "int": 62,
+      "arcane": 55,
+      "luck": 51
+    },
+    "effect": "Increases Strength of all Shuriman allies by 6."
+  },
+  {
+    "id": 40,
+    "name": "Graves",
+    "key": "Graves",
+    "rarity": "Common",
+    "category": "Freljordian",
+    "stats": {
+      "str": 41,
+      "dex": 39,
+      "int": 56,
+      "arcane": 55,
+      "luck": 57
+    },
+    "effect": "Increases Strength of all Beast allies by 8."
+  },
+  {
+    "id": 41,
+    "name": "Gwen",
+    "key": "Gwen",
+    "rarity": "Common",
+    "category": "Orc",
+    "stats": {
+      "str": 60,
+      "dex": 54,
+      "int": 38,
+      "arcane": 41,
+      "luck": 50
+    },
+    "effect": "Increases Luck of all Noxian allies by 5."
+  },
+  {
+    "id": 42,
+    "name": "Hecarim",
+    "key": "Hecarim",
+    "rarity": "Common",
+    "category": "Void",
+    "stats": {
+      "str": 35,
+      "dex": 48,
+      "int": 60,
+      "arcane": 38,
+      "luck": 31
+    },
+    "effect": "Increases Arcane of all Ionian allies by 10."
+  },
+  {
+    "id": 43,
+    "name": "Heimerdinger",
+    "key": "Heimerdinger",
+    "rarity": "Rare",
+    "category": "Zaunite",
+    "stats": {
+      "str": 77,
+      "dex": 52,
+      "int": 69,
+      "arcane": 57,
+      "luck": 61
+    },
+    "effect": "Increases Arcane of all Humanoid allies by 9."
+  },
+  {
+    "id": 44,
+    "name": "Illaoi",
+    "key": "Illaoi",
+    "rarity": "Epic",
+    "category": "ShadowIsles",
+    "stats": {
+      "str": 72,
+      "dex": 83,
+      "int": 87,
+      "arcane": 64,
+      "luck": 81
+    },
+    "effect": "Increases Strength of all Celestial allies by 9."
+  },
+  {
+    "id": 45,
+    "name": "Irelia",
+    "key": "Irelia",
+    "rarity": "Common",
+    "category": "Zaunite",
+    "stats": {
+      "str": 40,
+      "dex": 42,
+      "int": 52,
+      "arcane": 39,
+      "luck": 47
+    },
+    "effect": "Increases Arcane of all Piltover allies by 10."
+  },
+  {
+    "id": 46,
+    "name": "Ivern",
+    "key": "Ivern",
+    "rarity": "Rare",
+    "category": "Dragon",
+    "stats": {
+      "str": 64,
+      "dex": 70,
+      "int": 80,
+      "arcane": 45,
+      "luck": 64
+    },
+    "effect": "Increases Arcane of all Ixtali allies by 9."
+  },
+  {
+    "id": 47,
+    "name": "Janna",
+    "key": "Janna",
+    "rarity": "Rare",
+    "category": "Freljordian",
+    "stats": {
+      "str": 73,
+      "dex": 73,
+      "int": 58,
+      "arcane": 77,
+      "luck": 75
+    },
+    "effect": "Increases Dexterity of all Orc allies by 7."
+  },
+  {
+    "id": 48,
+    "name": "Jarvan IV",
+    "key": "JarvanIV",
+    "rarity": "Common",
+    "category": "Bilgewater",
+    "stats": {
+      "str": 40,
+      "dex": 32,
+      "int": 56,
+      "arcane": 60,
+      "luck": 54
+    },
+    "effect": "Increases Intelligence of all Yordle allies by 12."
+  },
+  {
+    "id": 49,
+    "name": "Jax",
+    "key": "Jax",
+    "rarity": "Common",
+    "category": "Humanoid",
+    "stats": {
+      "str": 31,
+      "dex": 37,
+      "int": 45,
+      "arcane": 49,
+      "luck": 57
+    },
+    "effect": "Increases Arcane of all Zaunite allies by 10."
+  },
+  {
+    "id": 50,
+    "name": "Jayce",
+    "key": "Jayce",
+    "rarity": "Common",
+    "category": "Piltover",
+    "stats": {
+      "str": 45,
+      "dex": 42,
+      "int": 37,
+      "arcane": 34,
+      "luck": 50
+    },
+    "effect": "Increases Strength of all Zaunite allies by 6."
+  },
+  {
+    "id": 51,
+    "name": "Jhin",
+    "key": "Jhin",
+    "rarity": "Common",
+    "category": "Targonian",
+    "stats": {
+      "str": 44,
+      "dex": 31,
+      "int": 47,
+      "arcane": 37,
+      "luck": 59
+    },
+    "effect": "Reduces Arcane of all Demon allies by 6."
+  },
+  {
+    "id": 52,
+    "name": "Jinx",
+    "key": "Jinx",
+    "rarity": "Rare",
+    "category": "ShadowIsles",
+    "stats": {
+      "str": 65,
+      "dex": 73,
+      "int": 77,
+      "arcane": 72,
+      "luck": 80
+    },
+    "effect": "Increases Dexterity of all Shuriman allies by 8."
+  },
+  {
+    "id": 53,
+    "name": "Kai'Sa",
+    "key": "Kaisa",
+    "rarity": "Common",
+    "category": "Yordle",
+    "stats": {
+      "str": 56,
+      "dex": 50,
+      "int": 38,
+      "arcane": 54,
+      "luck": 54
+    },
+    "effect": "Increases Dexterity of all Void allies by 8."
+  },
+  {
+    "id": 54,
+    "name": "Kalista",
+    "key": "Kalista",
+    "rarity": "Common",
+    "category": "Celestial",
+    "stats": {
+      "str": 37,
+      "dex": 38,
+      "int": 40,
+      "arcane": 40,
+      "luck": 58
+    },
+    "effect": "Increases Dexterity of all Demon allies by 6."
+  },
+  {
+    "id": 55,
+    "name": "Karma",
+    "key": "Karma",
+    "rarity": "Common",
+    "category": "Demon",
+    "stats": {
+      "str": 52,
+      "dex": 36,
+      "int": 32,
+      "arcane": 43,
+      "luck": 43
+    },
+    "effect": "Increases Arcane of all Zaunite allies by 5."
+  },
+  {
+    "id": 56,
+    "name": "Karthus",
+    "key": "Karthus",
+    "rarity": "Common",
+    "category": "Zaunite",
+    "stats": {
+      "str": 42,
+      "dex": 58,
+      "int": 54,
+      "arcane": 48,
+      "luck": 60
+    },
+    "effect": "Increases Luck of all Piltover allies by 8."
+  },
+  {
+    "id": 57,
+    "name": "Kassadin",
+    "key": "Kassadin",
+    "rarity": "Common",
+    "category": "Ionian",
+    "stats": {
+      "str": 39,
+      "dex": 54,
+      "int": 42,
+      "arcane": 57,
+      "luck": 58
+    },
+    "effect": "Reduces Arcane of all ShadowIsles allies by 7."
+  },
+  {
+    "id": 58,
+    "name": "Katarina",
+    "key": "Katarina",
+    "rarity": "Rare",
+    "category": "Yordle",
+    "stats": {
+      "str": 76,
+      "dex": 59,
+      "int": 62,
+      "arcane": 72,
+      "luck": 76
+    },
+    "effect": "Increases Intelligence of all Piltover allies by 10."
+  },
+  {
+    "id": 59,
+    "name": "Kayle",
+    "key": "Kayle",
+    "rarity": "Common",
+    "category": "Freljordian",
+    "stats": {
+      "str": 59,
+      "dex": 34,
+      "int": 49,
+      "arcane": 47,
+      "luck": 30
+    },
+    "effect": "Reduces Luck of all Ixtali allies by 3."
+  },
+  {
+    "id": 60,
+    "name": "Kayn",
+    "key": "Kayn",
+    "rarity": "Common",
+    "category": "Zaunite",
+    "stats": {
+      "str": 34,
+      "dex": 57,
+      "int": 44,
+      "arcane": 35,
+      "luck": 31
+    },
+    "effect": "Increases Intelligence of all Beast allies by 8."
+  },
+  {
+    "id": 61,
+    "name": "Kennen",
+    "key": "Kennen",
+    "rarity": "Common",
+    "category": "Piltover",
+    "stats": {
+      "str": 38,
+      "dex": 54,
+      "int": 60,
+      "arcane": 56,
+      "luck": 43
+    },
+    "effect": "Increases Strength of all Shuriman allies by 5."
+  },
+  {
+    "id": 62,
+    "name": "Kha'Zix",
+    "key": "Khazix",
+    "rarity": "Rare",
+    "category": "Elf",
+    "stats": {
+      "str": 67,
+      "dex": 59,
+      "int": 49,
+      "arcane": 47,
+      "luck": 46
+    },
+    "effect": "Reduces Dexterity of all Humanoid allies by 4."
+  },
+  {
+    "id": 63,
+    "name": "Kindred",
+    "key": "Kindred",
+    "rarity": "Common",
+    "category": "Shuriman",
+    "stats": {
+      "str": 51,
+      "dex": 33,
+      "int": 48,
+      "arcane": 60,
+      "luck": 36
+    },
+    "effect": "Increases Intelligence of all Ionian allies by 6."
+  },
+  {
+    "id": 64,
+    "name": "Kled",
+    "key": "Kled",
+    "rarity": "Rare",
+    "category": "Undead",
+    "stats": {
+      "str": 55,
+      "dex": 64,
+      "int": 51,
+      "arcane": 46,
+      "luck": 64
+    },
+    "effect": "Increases Arcane of all Piltover allies by 10."
+  },
+  {
+    "id": 65,
+    "name": "Kog'Maw",
+    "key": "KogMaw",
+    "rarity": "Common",
+    "category": "Ixtali",
+    "stats": {
+      "str": 52,
+      "dex": 56,
+      "int": 50,
+      "arcane": 37,
+      "luck": 33
+    },
+    "effect": "Increases Intelligence of all Bilgewater allies by 12."
+  },
+  {
+    "id": 66,
+    "name": "LeBlanc",
+    "key": "Leblanc",
+    "rarity": "Common",
+    "category": "Ixtali",
+    "stats": {
+      "str": 55,
+      "dex": 31,
+      "int": 41,
+      "arcane": 47,
+      "luck": 43
+    },
+    "effect": "Increases Strength of all Targonian allies by 10."
+  },
+  {
+    "id": 67,
+    "name": "Lee Sin",
+    "key": "LeeSin",
+    "rarity": "Common",
+    "category": "Zaunite",
+    "stats": {
+      "str": 56,
+      "dex": 45,
+      "int": 33,
+      "arcane": 43,
+      "luck": 60
+    },
+    "effect": "Increases Arcane of all Demon allies by 8."
+  },
+  {
+    "id": 68,
+    "name": "Leona",
+    "key": "Leona",
+    "rarity": "Common",
+    "category": "Targonian",
+    "stats": {
+      "str": 60,
+      "dex": 50,
+      "int": 38,
+      "arcane": 49,
+      "luck": 55
+    },
+    "effect": "Reduces Arcane of all Freljordian allies by 7."
+  },
+  {
+    "id": 69,
+    "name": "Lillia",
+    "key": "Lillia",
+    "rarity": "Common",
+    "category": "Yordle",
+    "stats": {
+      "str": 56,
+      "dex": 59,
+      "int": 32,
+      "arcane": 38,
+      "luck": 58
+    },
+    "effect": "Increases Arcane of all Ixtali allies by 9."
+  },
+  {
+    "id": 70,
+    "name": "Lissandra",
+    "key": "Lissandra",
+    "rarity": "Rare",
+    "category": "Noxian",
+    "stats": {
+      "str": 46,
+      "dex": 76,
+      "int": 65,
+      "arcane": 56,
+      "luck": 76
+    },
+    "effect": "Increases Intelligence of all Noxian allies by 7."
+  },
+  {
+    "id": 71,
+    "name": "Lucian",
+    "key": "Lucian",
+    "rarity": "Epic",
+    "category": "Void",
+    "stats": {
+      "str": 60,
+      "dex": 72,
+      "int": 65,
+      "arcane": 75,
+      "luck": 86
+    },
+    "effect": "Increases Dexterity of all Shuriman allies by 10."
+  },
+  {
+    "id": 72,
+    "name": "Lulu",
+    "key": "Lulu",
+    "rarity": "Rare",
+    "category": "Freljordian",
+    "stats": {
+      "str": 46,
+      "dex": 50,
+      "int": 63,
+      "arcane": 59,
+      "luck": 70
+    },
+    "effect": "Increases Intelligence of all Ixtali allies by 7."
+  },
+  {
+    "id": 73,
+    "name": "Lux",
+    "key": "Lux",
+    "rarity": "Common",
+    "category": "Targonian",
+    "stats": {
+      "str": 41,
+      "dex": 43,
+      "int": 53,
+      "arcane": 47,
+      "luck": 40
+    },
+    "effect": "Increases Arcane of all Void allies by 7."
+  },
+  {
+    "id": 74,
+    "name": "Malphite",
+    "key": "Malphite",
+    "rarity": "Common",
+    "category": "Undead",
+    "stats": {
+      "str": 53,
+      "dex": 36,
+      "int": 40,
+      "arcane": 33,
+      "luck": 53
+    },
+    "effect": "Increases Dexterity of all Beast allies by 6."
+  },
+  {
+    "id": 75,
+    "name": "Malzahar",
+    "key": "Malzahar",
+    "rarity": "Rare",
+    "category": "Void",
+    "stats": {
+      "str": 78,
+      "dex": 63,
+      "int": 51,
+      "arcane": 57,
+      "luck": 63
+    },
+    "effect": "Increases Dexterity of all Celestial allies by 5."
+  },
+  {
+    "id": 76,
+    "name": "Maokai",
+    "key": "Maokai",
+    "rarity": "Rare",
+    "category": "Demon",
+    "stats": {
+      "str": 62,
+      "dex": 47,
+      "int": 48,
+      "arcane": 80,
+      "luck": 63
+    },
+    "effect": "Increases Dexterity of all Shuriman allies by 5."
+  },
+  {
+    "id": 77,
+    "name": "Master Yi",
+    "key": "MasterYi",
+    "rarity": "Epic",
+    "category": "Ixtali",
+    "stats": {
+      "str": 78,
+      "dex": 90,
+      "int": 90,
+      "arcane": 88,
+      "luck": 81
+    },
+    "effect": "Increases Strength of all Void allies by 12."
+  },
+  {
+    "id": 78,
+    "name": "Milio",
+    "key": "Milio",
+    "rarity": "Common",
+    "category": "Orc",
+    "stats": {
+      "str": 42,
+      "dex": 45,
+      "int": 32,
+      "arcane": 48,
+      "luck": 50
+    },
+    "effect": "Increases Dexterity of all Demon allies by 12."
+  },
+  {
+    "id": 79,
+    "name": "Miss Fortune",
+    "key": "MissFortune",
+    "rarity": "Common",
+    "category": "Celestial",
+    "stats": {
+      "str": 32,
+      "dex": 37,
+      "int": 33,
+      "arcane": 47,
+      "luck": 54
+    },
+    "effect": "Increases Luck of all Bilgewater allies by 6."
+  },
+  {
+    "id": 80,
+    "name": "Mordekaiser",
+    "key": "Mordekaiser",
+    "rarity": "Rare",
+    "category": "Piltover",
+    "stats": {
+      "str": 73,
+      "dex": 73,
+      "int": 64,
+      "arcane": 72,
+      "luck": 64
+    },
+    "effect": "Increases Strength of all Bilgewater allies by 10."
+  },
+  {
+    "id": 81,
+    "name": "Morgana",
+    "key": "Morgana",
+    "rarity": "Common",
+    "category": "Beast",
+    "stats": {
+      "str": 50,
+      "dex": 36,
+      "int": 38,
+      "arcane": 51,
+      "luck": 32
+    },
+    "effect": "Increases Dexterity of all ShadowIsles allies by 5."
+  },
+  {
+    "id": 82,
+    "name": "Naafiri",
+    "key": "Naafiri",
+    "rarity": "Common",
+    "category": "Zaunite",
+    "stats": {
+      "str": 44,
+      "dex": 52,
+      "int": 49,
+      "arcane": 45,
+      "luck": 39
+    },
+    "effect": "Increases Intelligence of all Celestial allies by 10."
+  },
+  {
+    "id": 83,
+    "name": "Nami",
+    "key": "Nami",
+    "rarity": "Epic",
+    "category": "Orc",
+    "stats": {
+      "str": 74,
+      "dex": 76,
+      "int": 72,
+      "arcane": 87,
+      "luck": 67
+    },
+    "effect": "Increases Dexterity of all Void allies by 12."
+  },
+  {
+    "id": 84,
+    "name": "Nasus",
+    "key": "Nasus",
+    "rarity": "Common",
+    "category": "Elf",
+    "stats": {
+      "str": 35,
+      "dex": 55,
+      "int": 39,
+      "arcane": 49,
+      "luck": 53
+    },
+    "effect": "Reduces Intelligence of all Freljordian allies by 6."
+  },
+  {
+    "id": 85,
+    "name": "Nautilus",
+    "key": "Nautilus",
+    "rarity": "Rare",
+    "category": "Piltover",
+    "stats": {
+      "str": 62,
+      "dex": 77,
+      "int": 79,
+      "arcane": 76,
+      "luck": 73
+    },
+    "effect": "Increases Strength of all Zaunite allies by 10."
+  },
+  {
+    "id": 86,
+    "name": "Neeko",
+    "key": "Neeko",
+    "rarity": "Common",
+    "category": "Void",
+    "stats": {
+      "str": 30,
+      "dex": 32,
+      "int": 37,
+      "arcane": 60,
+      "luck": 51
+    },
+    "effect": "Reduces Luck of all Ixtali allies by 5."
+  },
+  {
+    "id": 87,
+    "name": "Nidalee",
+    "key": "Nidalee",
+    "rarity": "Common",
+    "category": "Dragon",
+    "stats": {
+      "str": 45,
+      "dex": 46,
+      "int": 50,
+      "arcane": 44,
+      "luck": 59
+    },
+    "effect": "Increases Luck of all Zaunite allies by 10."
+  },
+  {
+    "id": 88,
+    "name": "Nilah",
+    "key": "Nilah",
+    "rarity": "Rare",
+    "category": "Orc",
+    "stats": {
+      "str": 75,
+      "dex": 67,
+      "int": 71,
+      "arcane": 66,
+      "luck": 65
+    },
+    "effect": "Increases Dexterity of all Noxian allies by 8."
+  },
+  {
+    "id": 89,
+    "name": "Nocturne",
+    "key": "Nocturne",
+    "rarity": "Rare",
+    "category": "Celestial",
+    "stats": {
+      "str": 70,
+      "dex": 80,
+      "int": 47,
+      "arcane": 74,
+      "luck": 50
+    },
+    "effect": "Increases Intelligence of all Undead allies by 12."
+  },
+  {
+    "id": 90,
+    "name": "Nunu & Willump",
+    "key": "Nunu",
+    "rarity": "Common",
+    "category": "Targonian",
+    "stats": {
+      "str": 56,
+      "dex": 30,
+      "int": 51,
+      "arcane": 57,
+      "luck": 47
+    },
+    "effect": "Increases Strength of all Beast allies by 9."
+  },
+  {
+    "id": 91,
+    "name": "Olaf",
+    "key": "Olaf",
+    "rarity": "Common",
+    "category": "Shuriman",
+    "stats": {
+      "str": 50,
+      "dex": 44,
+      "int": 54,
+      "arcane": 31,
+      "luck": 36
+    },
+    "effect": "Increases Dexterity of all Celestial allies by 8."
+  },
+  {
+    "id": 92,
+    "name": "Orianna",
+    "key": "Orianna",
+    "rarity": "Epic",
+    "category": "Shuriman",
+    "stats": {
+      "str": 67,
+      "dex": 61,
+      "int": 75,
+      "arcane": 70,
+      "luck": 79
+    },
+    "effect": "Increases Luck of all Zaunite allies by 5."
+  },
+  {
+    "id": 93,
+    "name": "Ornn",
+    "key": "Ornn",
+    "rarity": "Common",
+    "category": "Undead",
+    "stats": {
+      "str": 44,
+      "dex": 60,
+      "int": 33,
+      "arcane": 50,
+      "luck": 56
+    },
+    "effect": "Increases Intelligence of all Targonian allies by 10."
+  },
+  {
+    "id": 94,
+    "name": "Pantheon",
+    "key": "Pantheon",
+    "rarity": "Common",
+    "category": "Shuriman",
+    "stats": {
+      "str": 45,
+      "dex": 37,
+      "int": 44,
+      "arcane": 47,
+      "luck": 34
+    },
+    "effect": "Increases Luck of all Targonian allies by 10."
+  },
+  {
+    "id": 95,
+    "name": "Poppy",
+    "key": "Poppy",
+    "rarity": "Epic",
+    "category": "Orc",
+    "stats": {
+      "str": 77,
+      "dex": 86,
+      "int": 81,
+      "arcane": 92,
+      "luck": 77
+    },
+    "effect": "Reduces Intelligence of all Celestial allies by 7."
+  },
+  {
+    "id": 96,
+    "name": "Pyke",
+    "key": "Pyke",
+    "rarity": "Common",
+    "category": "Shuriman",
+    "stats": {
+      "str": 57,
+      "dex": 34,
+      "int": 44,
+      "arcane": 47,
+      "luck": 45
+    },
+    "effect": "Increases Luck of all ShadowIsles allies by 8."
+  },
+  {
+    "id": 97,
+    "name": "Qiyana",
+    "key": "Qiyana",
+    "rarity": "Common",
+    "category": "Noxian",
+    "stats": {
+      "str": 57,
+      "dex": 36,
+      "int": 52,
+      "arcane": 37,
+      "luck": 48
+    },
+    "effect": "Increases Arcane of all Elf allies by 7."
+  },
+  {
+    "id": 98,
+    "name": "Quinn",
+    "key": "Quinn",
+    "rarity": "Rare",
+    "category": "Piltover",
+    "stats": {
+      "str": 69,
+      "dex": 54,
+      "int": 76,
+      "arcane": 47,
+      "luck": 53
+    },
+    "effect": "Increases Luck of all Noxian allies by 12."
+  },
+  {
+    "id": 99,
+    "name": "Rakan",
+    "key": "Rakan",
+    "rarity": "Common",
+    "category": "Freljordian",
+    "stats": {
+      "str": 33,
+      "dex": 46,
+      "int": 59,
+      "arcane": 44,
+      "luck": 30
+    },
+    "effect": "Increases Arcane of all Demon allies by 5."
+  },
+  {
+    "id": 100,
+    "name": "Rammus",
+    "key": "Rammus",
+    "rarity": "Common",
+    "category": "Void",
+    "stats": {
+      "str": 40,
+      "dex": 49,
+      "int": 52,
+      "arcane": 42,
+      "luck": 50
+    },
+    "effect": "Increases Intelligence of all ShadowIsles allies by 8."
+  },
+  {
+    "id": 101,
+    "name": "Rek'Sai",
+    "key": "RekSai",
+    "rarity": "Legendary",
+    "category": "Shuriman",
+    "stats": {
+      "str": 95,
+      "dex": 79,
+      "int": 97,
+      "arcane": 80,
+      "luck": 85
+    },
+    "effect": "Increases Intelligence of all Yordle allies by 10."
+  },
+  {
+    "id": 102,
+    "name": "Rell",
+    "key": "Rell",
+    "rarity": "Common",
+    "category": "Undead",
+    "stats": {
+      "str": 54,
+      "dex": 50,
+      "int": 52,
+      "arcane": 57,
+      "luck": 33
+    },
+    "effect": "Increases Intelligence of all Humanoid allies by 5."
+  },
+  {
+    "id": 103,
+    "name": "Renata Glasc",
+    "key": "RenataGlasc",
+    "rarity": "Common",
+    "category": "Elf",
+    "stats": {
+      "str": 39,
+      "dex": 41,
+      "int": 41,
+      "arcane": 43,
+      "luck": 34
+    },
+    "effect": "Increases Arcane of all Ixtali allies by 10."
+  },
+  {
+    "id": 104,
+    "name": "Renekton",
+    "key": "Renekton",
+    "rarity": "Rare",
+    "category": "Dragon",
+    "stats": {
+      "str": 56,
+      "dex": 50,
+      "int": 69,
+      "arcane": 60,
+      "luck": 76
+    },
+    "effect": "Reduces Dexterity of all Yordle allies by 5."
+  },
+  {
+    "id": 105,
+    "name": "Rengar",
+    "key": "Rengar",
+    "rarity": "Common",
+    "category": "Humanoid",
+    "stats": {
+      "str": 58,
+      "dex": 55,
+      "int": 44,
+      "arcane": 58,
+      "luck": 39
+    },
+    "effect": "Increases Dexterity of all Orc allies by 8."
+  },
+  {
+    "id": 106,
+    "name": "Riven",
+    "key": "Riven",
+    "rarity": "Epic",
+    "category": "Ixtali",
+    "stats": {
+      "str": 79,
+      "dex": 87,
+      "int": 76,
+      "arcane": 89,
+      "luck": 79
+    },
+    "effect": "Increases Arcane of all Shuriman allies by 5."
+  },
+  {
+    "id": 107,
+    "name": "Rumble",
+    "key": "Rumble",
+    "rarity": "Common",
+    "category": "Ixtali",
+    "stats": {
+      "str": 41,
+      "dex": 48,
+      "int": 39,
+      "arcane": 52,
+      "luck": 39
+    },
+    "effect": "Increases Arcane of all Void allies by 5."
+  },
+  {
+    "id": 108,
+    "name": "Ryze",
+    "key": "Ryze",
+    "rarity": "Common",
+    "category": "Elf",
+    "stats": {
+      "str": 59,
+      "dex": 49,
+      "int": 53,
+      "arcane": 45,
+      "luck": 56
+    },
+    "effect": "Reduces Intelligence of all Yordle allies by 5."
+  },
+  {
+    "id": 109,
+    "name": "Samira",
+    "key": "Samira",
+    "rarity": "Common",
+    "category": "Beast",
+    "stats": {
+      "str": 49,
+      "dex": 38,
+      "int": 51,
+      "arcane": 54,
+      "luck": 53
+    },
+    "effect": "Increases Dexterity of all Undead allies by 10."
+  },
+  {
+    "id": 110,
+    "name": "Sejuani",
+    "key": "Sejuani",
+    "rarity": "Rare",
+    "category": "Celestial",
+    "stats": {
+      "str": 73,
+      "dex": 47,
+      "int": 68,
+      "arcane": 53,
+      "luck": 50
+    },
+    "effect": "Reduces Intelligence of all Zaunite allies by 4."
+  },
+  {
+    "id": 111,
+    "name": "Senna",
+    "key": "Senna",
+    "rarity": "Common",
+    "category": "ShadowIsles",
+    "stats": {
+      "str": 58,
+      "dex": 41,
+      "int": 46,
+      "arcane": 46,
+      "luck": 59
+    },
+    "effect": "Increases Dexterity of all Void allies by 12."
+  },
+  {
+    "id": 112,
+    "name": "Seraphine",
+    "key": "Seraphine",
+    "rarity": "Epic",
+    "category": "Celestial",
+    "stats": {
+      "str": 81,
+      "dex": 67,
+      "int": 89,
+      "arcane": 64,
+      "luck": 69
+    },
+    "effect": "Increases Dexterity of all Piltover allies by 12."
+  },
+  {
+    "id": 113,
+    "name": "Sett",
+    "key": "Sett",
+    "rarity": "Rare",
+    "category": "Ionian",
+    "stats": {
+      "str": 50,
+      "dex": 70,
+      "int": 45,
+      "arcane": 61,
+      "luck": 79
+    },
+    "effect": "Increases Intelligence of all Void allies by 9."
+  },
+  {
+    "id": 114,
+    "name": "Shaco",
+    "key": "Shaco",
+    "rarity": "Common",
+    "category": "Ionian",
+    "stats": {
+      "str": 33,
+      "dex": 51,
+      "int": 37,
+      "arcane": 45,
+      "luck": 30
+    },
+    "effect": "Increases Luck of all Noxian allies by 9."
+  },
+  {
+    "id": 115,
+    "name": "Shen",
+    "key": "Shen",
+    "rarity": "Common",
+    "category": "Orc",
+    "stats": {
+      "str": 50,
+      "dex": 56,
+      "int": 44,
+      "arcane": 59,
+      "luck": 52
+    },
+    "effect": "Increases Arcane of all Undead allies by 6."
+  },
+  {
+    "id": 116,
+    "name": "Shyvana",
+    "key": "Shyvana",
+    "rarity": "Common",
+    "category": "Elf",
+    "stats": {
+      "str": 39,
+      "dex": 45,
+      "int": 33,
+      "arcane": 33,
+      "luck": 37
+    },
+    "effect": "Reduces Dexterity of all Piltover allies by 5."
+  },
+  {
+    "id": 117,
+    "name": "Singed",
+    "key": "Singed",
+    "rarity": "Rare",
+    "category": "ShadowIsles",
+    "stats": {
+      "str": 71,
+      "dex": 54,
+      "int": 71,
+      "arcane": 51,
+      "luck": 76
+    },
+    "effect": "Increases Intelligence of all Elf allies by 10."
+  },
+  {
+    "id": 118,
+    "name": "Sion",
+    "key": "Sion",
+    "rarity": "Common",
+    "category": "Freljordian",
+    "stats": {
+      "str": 44,
+      "dex": 60,
+      "int": 37,
+      "arcane": 57,
+      "luck": 41
+    },
+    "effect": "Increases Intelligence of all ShadowIsles allies by 10."
+  },
+  {
+    "id": 119,
+    "name": "Sivir",
+    "key": "Sivir",
+    "rarity": "Common",
+    "category": "Piltover",
+    "stats": {
+      "str": 38,
+      "dex": 36,
+      "int": 60,
+      "arcane": 33,
+      "luck": 60
+    },
+    "effect": "Reduces Arcane of all Orc allies by 4."
+  },
+  {
+    "id": 120,
+    "name": "Skarner",
+    "key": "Skarner",
+    "rarity": "Rare",
+    "category": "Bilgewater",
+    "stats": {
+      "str": 46,
+      "dex": 48,
+      "int": 66,
+      "arcane": 60,
+      "luck": 53
+    },
+    "effect": "Increases Dexterity of all Orc allies by 12."
+  },
+  {
+    "id": 121,
+    "name": "Sona",
+    "key": "Sona",
+    "rarity": "Rare",
+    "category": "Beast",
+    "stats": {
+      "str": 58,
+      "dex": 59,
+      "int": 66,
+      "arcane": 54,
+      "luck": 45
+    },
+    "effect": "Increases Dexterity of all Demon allies by 9."
+  },
+  {
+    "id": 122,
+    "name": "Soraka",
+    "key": "Soraka",
+    "rarity": "Common",
+    "category": "Dragon",
+    "stats": {
+      "str": 33,
+      "dex": 51,
+      "int": 57,
+      "arcane": 30,
+      "luck": 34
+    },
+    "effect": "Increases Dexterity of all Ixtali allies by 7."
+  },
+  {
+    "id": 123,
+    "name": "Swain",
+    "key": "Swain",
+    "rarity": "Common",
+    "category": "Void",
+    "stats": {
+      "str": 31,
+      "dex": 34,
+      "int": 53,
+      "arcane": 43,
+      "luck": 46
+    },
+    "effect": "Increases Strength of all Shuriman allies by 8."
+  },
+  {
+    "id": 124,
+    "name": "Sylas",
+    "key": "Sylas",
+    "rarity": "Rare",
+    "category": "Targonian",
+    "stats": {
+      "str": 51,
+      "dex": 73,
+      "int": 77,
+      "arcane": 59,
+      "luck": 47
+    },
+    "effect": "Increases Luck of all Celestial allies by 8."
+  },
+  {
+    "id": 125,
+    "name": "Syndra",
+    "key": "Syndra",
+    "rarity": "Rare",
+    "category": "Humanoid",
+    "stats": {
+      "str": 48,
+      "dex": 75,
+      "int": 70,
+      "arcane": 72,
+      "luck": 51
+    },
+    "effect": "Increases Arcane of all Orc allies by 5."
+  },
+  {
+    "id": 126,
+    "name": "Tahm Kench",
+    "key": "TahmKench",
+    "rarity": "Common",
+    "category": "Demon",
+    "stats": {
+      "str": 32,
+      "dex": 34,
+      "int": 38,
+      "arcane": 49,
+      "luck": 50
+    },
+    "effect": "Increases Intelligence of all Piltover allies by 9."
+  },
+  {
+    "id": 127,
+    "name": "Taliyah",
+    "key": "Taliyah",
+    "rarity": "Common",
+    "category": "Freljordian",
+    "stats": {
+      "str": 46,
+      "dex": 49,
+      "int": 43,
+      "arcane": 33,
+      "luck": 55
+    },
+    "effect": "Increases Luck of all Beast allies by 8."
+  },
+  {
+    "id": 128,
+    "name": "Talon",
+    "key": "Talon",
+    "rarity": "Common",
+    "category": "Yordle",
+    "stats": {
+      "str": 43,
+      "dex": 40,
+      "int": 56,
+      "arcane": 44,
+      "luck": 42
+    },
+    "effect": "Increases Strength of all Noxian allies by 8."
+  },
+  {
+    "id": 129,
+    "name": "Taric",
+    "key": "Taric",
+    "rarity": "Common",
+    "category": "Void",
+    "stats": {
+      "str": 41,
+      "dex": 60,
+      "int": 34,
+      "arcane": 51,
+      "luck": 59
+    },
+    "effect": "Increases Strength of all Orc allies by 5."
+  },
+  {
+    "id": 130,
+    "name": "Teemo",
+    "key": "Teemo",
+    "rarity": "Common",
+    "category": "Ionian",
+    "stats": {
+      "str": 55,
+      "dex": 34,
+      "int": 47,
+      "arcane": 31,
+      "luck": 48
+    },
+    "effect": "Reduces Luck of all Noxian allies by 3."
+  },
+  {
+    "id": 131,
+    "name": "Thresh",
+    "key": "Thresh",
+    "rarity": "Common",
+    "category": "Zaunite",
+    "stats": {
+      "str": 57,
+      "dex": 59,
+      "int": 53,
+      "arcane": 31,
+      "luck": 60
+    },
+    "effect": "Increases Intelligence of all Ionian allies by 5."
+  },
+  {
+    "id": 132,
+    "name": "Tristana",
+    "key": "Tristana",
+    "rarity": "Common",
+    "category": "Beast",
+    "stats": {
+      "str": 34,
+      "dex": 51,
+      "int": 45,
+      "arcane": 37,
+      "luck": 57
+    },
+    "effect": "Increases Luck of all Ionian allies by 5."
+  },
+  {
+    "id": 133,
+    "name": "Trundle",
+    "key": "Trundle",
+    "rarity": "Rare",
+    "category": "Ixtali",
+    "stats": {
+      "str": 59,
+      "dex": 72,
+      "int": 80,
+      "arcane": 80,
+      "luck": 46
+    },
+    "effect": "Increases Intelligence of all Humanoid allies by 6."
+  },
+  {
+    "id": 134,
+    "name": "Tryndamere",
+    "key": "Tryndamere",
+    "rarity": "Common",
+    "category": "Celestial",
+    "stats": {
+      "str": 59,
+      "dex": 40,
+      "int": 41,
+      "arcane": 30,
+      "luck": 35
+    },
+    "effect": "Reduces Luck of all Piltover allies by 4."
+  },
+  {
+    "id": 135,
+    "name": "Twisted Fate",
+    "key": "TwistedFate",
+    "rarity": "Rare",
+    "category": "Humanoid",
+    "stats": {
+      "str": 50,
+      "dex": 78,
+      "int": 58,
+      "arcane": 69,
+      "luck": 71
+    },
+    "effect": "Increases Dexterity of all Ionian allies by 7."
+  },
+  {
+    "id": 136,
+    "name": "Twitch",
+    "key": "Twitch",
+    "rarity": "Rare",
+    "category": "Ixtali",
+    "stats": {
+      "str": 50,
+      "dex": 48,
+      "int": 54,
+      "arcane": 55,
+      "luck": 48
+    },
+    "effect": "Increases Intelligence of all Freljordian allies by 10."
+  },
+  {
+    "id": 137,
+    "name": "Udyr",
+    "key": "Udyr",
+    "rarity": "Common",
+    "category": "Bilgewater",
+    "stats": {
+      "str": 44,
+      "dex": 43,
+      "int": 38,
+      "arcane": 36,
+      "luck": 54
+    },
+    "effect": "Increases Intelligence of all Zaunite allies by 5."
+  },
+  {
+    "id": 138,
+    "name": "Urgot",
+    "key": "Urgot",
+    "rarity": "Common",
+    "category": "Ixtali",
+    "stats": {
+      "str": 45,
+      "dex": 46,
+      "int": 51,
+      "arcane": 39,
+      "luck": 31
+    },
+    "effect": "Increases Luck of all Elf allies by 5."
+  },
+  {
+    "id": 139,
+    "name": "Varus",
+    "key": "Varus",
+    "rarity": "Common",
+    "category": "Beast",
+    "stats": {
+      "str": 54,
+      "dex": 34,
+      "int": 54,
+      "arcane": 38,
+      "luck": 39
+    },
+    "effect": "Increases Strength of all Shuriman allies by 10."
+  },
+  {
+    "id": 140,
+    "name": "Vayne",
+    "key": "Vayne",
+    "rarity": "Common",
+    "category": "Demon",
+    "stats": {
+      "str": 42,
+      "dex": 47,
+      "int": 52,
+      "arcane": 37,
+      "luck": 46
+    },
+    "effect": "Increases Intelligence of all Orc allies by 8."
+  },
+  {
+    "id": 141,
+    "name": "Veigar",
+    "key": "Veigar",
+    "rarity": "Epic",
+    "category": "Elf",
+    "stats": {
+      "str": 87,
+      "dex": 61,
+      "int": 89,
+      "arcane": 64,
+      "luck": 80
+    },
+    "effect": "Increases Luck of all Piltover allies by 10."
+  },
+  {
+    "id": 142,
+    "name": "Vel'Koz",
+    "key": "Velkoz",
+    "rarity": "Rare",
+    "category": "Celestial",
+    "stats": {
+      "str": 52,
+      "dex": 70,
+      "int": 46,
+      "arcane": 65,
+      "luck": 55
+    },
+    "effect": "Reduces Luck of all Freljordian allies by 5."
+  },
+  {
+    "id": 143,
+    "name": "Vex",
+    "key": "Vex",
+    "rarity": "Common",
+    "category": "Undead",
+    "stats": {
+      "str": 37,
+      "dex": 43,
+      "int": 48,
+      "arcane": 42,
+      "luck": 46
+    },
+    "effect": "Increases Intelligence of all Noxian allies by 6."
+  },
+  {
+    "id": 144,
+    "name": "Vi",
+    "key": "Vi",
+    "rarity": "Common",
+    "category": "Dragon",
+    "stats": {
+      "str": 32,
+      "dex": 46,
+      "int": 50,
+      "arcane": 33,
+      "luck": 46
+    },
+    "effect": "Increases Intelligence of all Ionian allies by 10."
+  },
+  {
+    "id": 145,
+    "name": "Viego",
+    "key": "Viego",
+    "rarity": "Legendary",
+    "category": "Demon",
+    "stats": {
+      "str": 85,
+      "dex": 81,
+      "int": 82,
+      "arcane": 86,
+      "luck": 84
+    },
+    "effect": "Increases Dexterity of all Orc allies by 6."
+  },
+  {
+    "id": 146,
+    "name": "Viktor",
+    "key": "Viktor",
+    "rarity": "Legendary",
+    "category": "Shuriman",
+    "stats": {
+      "str": 92,
+      "dex": 96,
+      "int": 96,
+      "arcane": 92,
+      "luck": 99
+    },
+    "effect": "Reduces Luck of all Bilgewater allies by 5."
+  },
+  {
+    "id": 147,
+    "name": "Vladimir",
+    "key": "Vladimir",
+    "rarity": "Common",
+    "category": "Orc",
+    "stats": {
+      "str": 45,
+      "dex": 44,
+      "int": 50,
+      "arcane": 39,
+      "luck": 55
+    },
+    "effect": "Increases Strength of all Ionian allies by 9."
+  },
+  {
+    "id": 148,
+    "name": "Volibear",
+    "key": "Volibear",
+    "rarity": "Common",
+    "category": "Freljordian",
+    "stats": {
+      "str": 44,
+      "dex": 31,
+      "int": 31,
+      "arcane": 41,
+      "luck": 56
+    },
+    "effect": "Increases Strength of all Bilgewater allies by 9."
+  },
+  {
+    "id": 149,
+    "name": "Warwick",
+    "key": "Warwick",
+    "rarity": "Common",
+    "category": "Freljordian",
+    "stats": {
+      "str": 48,
+      "dex": 47,
+      "int": 60,
+      "arcane": 55,
+      "luck": 53
+    },
+    "effect": "Reduces Arcane of all Ixtali allies by 4."
+  },
+  {
+    "id": 150,
+    "name": "Wukong",
+    "key": "MonkeyKing",
+    "rarity": "Common",
+    "category": "Shuriman",
+    "stats": {
+      "str": 46,
+      "dex": 34,
+      "int": 60,
+      "arcane": 31,
+      "luck": 44
+    },
+    "effect": "Increases Intelligence of all Orc allies by 9."
+  }
+]
